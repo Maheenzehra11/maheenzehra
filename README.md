@@ -13,12 +13,12 @@
 	src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3, and AI Enthusiast.<br>
-• 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
+• 💪🏻 I'm an AI Enthusiast.<br>
+• 🌱 I’m currently learning Generative AI... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 📗 I'm currently Learning from Panaverse, PIAIC.<br>
-• 🔥 Python Developer and Power BI Developer.<br>
-• 💸 LEVEL-01 SELLER of MuaazAsif on Fiverr.<br>
+• 📗 I'm currently Learning from Datacraft Mastering Analytics,Bano Qabil 4.0.<br>
+• 🔥 Advance Excel, Google sheet and SQL.<br>
+
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
