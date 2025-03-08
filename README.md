@@ -28,7 +28,7 @@
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
     <a href="mailto:maheenzehra816@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Maheen Zehra - Email"></a>
-    <a href="https://www.linkedin.com/in/muhammed-muaaz/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="MuaazAsif Ali-Linkedin"></a><br>
+    <a href="(https://www.linkedin.com/in/maheen-zehra-4aa791287 utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Maheen Zehra-Linkedin"></a><br>
     
 </div>
 
