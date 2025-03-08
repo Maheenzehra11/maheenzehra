@@ -27,14 +27,9 @@
 
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
-    <a href="mailto:muhammed.muaaz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="MuaazAsif Ali - Email"></a>
+    <a href="mailto:maheenzehra816@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Maheen Zehra - Email"></a>
     <a href="https://www.linkedin.com/in/muhammed-muaaz/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="MuaazAsif Ali-Linkedin"></a><br>
-    <a href="https://www.facebook.com/muaaz.asif.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="MuaazAsif Ali- Facebook"></a>
-    <a href="https://www.fiverr.com/muaazasif572" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Muaaz Asif-fiverr"></a>
-<a href="https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/329973" target="_blank"><img src="https://img.shields.io/badge/PowerBi-0D1117?style=for-the-badge&logo=PowerBi&logoColor=F0DB4F" alt="MuaazAsif Ali-Power Bi"></a>
-	<a href="https://muaazasif.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=F0DB4F" alt="MuaazAsif Ali-Portfolio"></a>
-	
-
+    
 </div>
 
 </p>
